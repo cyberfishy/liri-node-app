@@ -1,2 +1,2 @@
 # liri-node-app
-Liri is an app that runs on node.js
+Liri is an app that runs on node.js. I put a lot of time and effort into this app and got most of it working well. I intend to revisit it and get the entire thing working. At this moment, the OMDB portion does not pass in the name of the movie to be searched, so I get something that the API returns -- the Lego Movie. It does not even default to the coded fall-back movie title. I have a sense this is something simple that will make me sigh when I find it!

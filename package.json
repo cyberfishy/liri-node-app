@@ -1,0 +1,23 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "Liri is an app that runs on node.js",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyberfishy/liri-node-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyberfishy/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/cyberfishy/liri-node-app#readme",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7"
+  }
+}

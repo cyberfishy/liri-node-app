@@ -1,0 +1,532 @@
+User Command: node liri.js spotify-this-song Hello 
+
+User Command: node liri.js movie-this Bullit 
+
+ERROR: Retrieving OMDB entry -- nullUser Command: node liri.js movie-this The Nun 
+
+ERROR: Retrieving OMDB entry -- nullUser Command: node liri.js movie-this The Nun 
+
+ERROR: Retrieving OMDB entry -- nullUser Command: node liri.js movie-this The Nun 
+
+ERROR: Retrieving OMDB entry -- nullUser Command: node liri.js movie-this The Nun 
+
+ERROR: Retrieving OMDB entry -- nullUser Command: node liri.js movie-this The Nun 
+
+ERROR: Retrieving OMDB entry -- nullUser Command: node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song "I Want it That Way"
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: I Want It That Way
+Artist: Backstreet Boys
+Album: The Hits--Chapter One
+Preview Here: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=1ebed4cffe3f4ee09ddf108846ae21f8
+
+User Command: node liri.js movie-this The Nun 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Don't Worry, We'll Think of a Title
+Year Released: 01 May 1966
+IMBD Rating: 4.8
+Country Produced: USA
+Language: English
+Plot: A man is mistaken by foreign agents for a defecting cosmonaut and must prove his identity while evading capture.
+Actors: Morey Amsterdam, Rose Marie, Richard Deacon, Joey Adams
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-this Bullitt 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Don't Worry, We'll Think of a Title
+Year Released: 01 May 1966
+IMBD Rating: 4.8
+Country Produced: USA
+Language: English
+Plot: A man is mistaken by foreign agents for a defecting cosmonaut and must prove his identity while evading capture.
+Actors: Morey Amsterdam, Rose Marie, Richard Deacon, Joey Adams
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-this Miss Piggy 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Don't Worry, We'll Think of a Title
+Year Released: 01 May 1966
+IMBD Rating: 4.8
+Country Produced: USA
+Language: English
+Plot: A man is mistaken by foreign agents for a defecting cosmonaut and must prove his identity while evading capture.
+Actors: Morey Amsterdam, Rose Marie, Richard Deacon, Joey Adams
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-this Bullitt 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Don't Worry, We'll Think of a Title
+Year Released: 01 May 1966
+IMBD Rating: 4.8
+Country Produced: USA
+Language: English
+Plot: A man is mistaken by foreign agents for a defecting cosmonaut and must prove his identity while evading capture.
+Actors: Morey Amsterdam, Rose Marie, Richard Deacon, Joey Adams
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song "I Want it That Way"
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: I Want It That Way
+Artist: Backstreet Boys
+Album: The Hits--Chapter One
+Preview Here: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=1ebed4cffe3f4ee09ddf108846ae21f8
+
+User Command: node liri.js movie-this 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Don't Worry, We'll Think of a Title
+Year Released: 01 May 1966
+IMBD Rating: 4.8
+Country Produced: USA
+Language: English
+Plot: A man is mistaken by foreign agents for a defecting cosmonaut and must prove his identity while evading capture.
+Actors: Morey Amsterdam, Rose Marie, Richard Deacon, Joey Adams
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-this Bullitt 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Don't Worry, We'll Think of a Title
+Year Released: 01 May 1966
+IMBD Rating: 4.8
+Country Produced: USA
+Language: English
+Plot: A man is mistaken by foreign agents for a defecting cosmonaut and must prove his identity while evading capture.
+Actors: Morey Amsterdam, Rose Marie, Richard Deacon, Joey Adams
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-this Bullitt 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Don't Worry, We'll Think of a Title
+Year Released: 01 May 1966
+IMBD Rating: 4.8
+Country Produced: USA
+Language: English
+Plot: A man is mistaken by foreign agents for a defecting cosmonaut and must prove his identity while evading capture.
+Actors: Morey Amsterdam, Rose Marie, Richard Deacon, Joey Adams
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-this Bullitt 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: The Lego Movie
+Year Released: 07 Feb 2014
+IMBD Rating: 7.8
+Country Produced: Australia, USA, Denmark
+Language: English
+Plot: An ordinary LEGO construction worker, thought to be the prophesied as "special", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.
+Actors: Will Arnett, Elizabeth Banks, Craig Berry, Alison Brie
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-this Bullitt 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: The Lego Movie
+Year Released: 07 Feb 2014
+IMBD Rating: 7.8
+Country Produced: Australia, USA, Denmark
+Language: English
+Plot: An ordinary LEGO construction worker, thought to be the prophesied as "special", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.
+Actors: Will Arnett, Elizabeth Banks, Craig Berry, Alison Brie
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-this Bullitt 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Don't Worry, We'll Think of a Title
+Year Released: 01 May 1966
+IMBD Rating: 4.8
+Country Produced: USA
+Language: English
+Plot: A man is mistaken by foreign agents for a defecting cosmonaut and must prove his identity while evading capture.
+Actors: Morey Amsterdam, Rose Marie, Richard Deacon, Joey Adams
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-this Bullitt 
+
+ERROR: Retrieving OMDB entry -- nullUser Command: node liri.js movie-this Bullitt 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Don't Worry, We'll Think of a Title
+Year Released: 01 May 1966
+IMBD Rating: 4.8
+Country Produced: USA
+Language: English
+Plot: A man is mistaken by foreign agents for a defecting cosmonaut and must prove his identity while evading capture.
+Actors: Morey Amsterdam, Rose Marie, Richard Deacon, Joey Adams
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-this Bullitt 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Don't Worry, We'll Think of a Title
+Year Released: 01 May 1966
+IMBD Rating: 4.8
+Country Produced: USA
+Language: English
+Plot: A man is mistaken by foreign agents for a defecting cosmonaut and must prove his identity while evading capture.
+Actors: Morey Amsterdam, Rose Marie, Richard Deacon, Joey Adams
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-this Bullitt 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: The Lego Movie
+Year Released: 07 Feb 2014
+IMBD Rating: 7.8
+Country Produced: Australia, USA, Denmark
+Language: English
+Plot: An ordinary LEGO construction worker, thought to be the prophesied as "special", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.
+Actors: Will Arnett, Elizabeth Banks, Craig Berry, Alison Brie
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-this Blade Runner 2049 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: The Lego Movie
+Year Released: 07 Feb 2014
+IMBD Rating: 7.8
+Country Produced: Australia, USA, Denmark
+Language: English
+Plot: An ordinary LEGO construction worker, thought to be the prophesied as "special", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.
+Actors: Will Arnett, Elizabeth Banks, Craig Berry, Alison Brie
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-this movie 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: The Lego Movie
+Year Released: 07 Feb 2014
+IMBD Rating: 7.8
+Country Produced: Australia, USA, Denmark
+Language: English
+Plot: An ordinary LEGO construction worker, thought to be the prophesied as "special", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.
+Actors: Will Arnett, Elizabeth Banks, Craig Berry, Alison Brie
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-this Blade Runner 2045 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: The Lego Movie
+Year Released: 07 Feb 2014
+IMBD Rating: 7.8
+Country Produced: Australia, USA, Denmark
+Language: English
+Plot: An ordinary LEGO construction worker, thought to be the prophesied as "special", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.
+Actors: Will Arnett, Elizabeth Banks, Craig Berry, Alison Brie
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-this Blade Runner 2045 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: The Lego Movie
+Year Released: 07 Feb 2014
+IMBD Rating: 7.8
+Country Produced: Australia, USA, Denmark
+Language: English
+Plot: An ordinary LEGO construction worker, thought to be the prophesied as "special", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.
+Actors: Will Arnett, Elizabeth Banks, Craig Berry, Alison Brie
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-this Blade Runner 2045 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: The Lego Movie
+Year Released: 07 Feb 2014
+IMBD Rating: 7.8
+Country Produced: Australia, USA, Denmark
+Language: English
+Plot: An ordinary LEGO construction worker, thought to be the prophesied as "special", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.
+Actors: Will Arnett, Elizabeth Banks, Craig Berry, Alison Brie
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-this Blade Runner 2045 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: The Lego Movie
+Year Released: 07 Feb 2014
+IMBD Rating: 7.8
+Country Produced: Australia, USA, Denmark
+Language: English
+Plot: An ordinary LEGO construction worker, thought to be the prophesied as "special", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.
+Actors: Will Arnett, Elizabeth Banks, Craig Berry, Alison Brie
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-this Blade Runner 2045 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: The Lego Movie
+Year Released: 07 Feb 2014
+IMBD Rating: 7.8
+Country Produced: Australia, USA, Denmark
+Language: English
+Plot: An ordinary LEGO construction worker, thought to be the prophesied as "special", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.
+Actors: Will Arnett, Elizabeth Banks, Craig Berry, Alison Brie
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-this movie
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: The Lego Movie
+Year Released: 07 Feb 2014
+IMBD Rating: 7.8
+Country Produced: Australia, USA, Denmark
+Language: English
+Plot: An ordinary LEGO construction worker, thought to be the prophesied as "special", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.
+Actors: Will Arnett, Elizabeth Banks, Craig Berry, Alison Brie
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-this Blade Runner 2045 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: The Lego Movie
+Year Released: 07 Feb 2014
+IMBD Rating: 7.8
+Country Produced: Australia, USA, Denmark
+Language: English
+Plot: An ordinary LEGO construction worker, thought to be the prophesied as "special", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.
+Actors: Will Arnett, Elizabeth Banks, Craig Berry, Alison Brie
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-thisBlade Runner 2045 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: The Lego Movie
+Year Released: 07 Feb 2014
+IMBD Rating: 7.8
+Country Produced: Australia, USA, Denmark
+Language: English
+Plot: An ordinary LEGO construction worker, thought to be the prophesied as "special", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.
+Actors: Will Arnett, Elizabeth Banks, Craig Berry, Alison Brie
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-thisBlade Runner 2045 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: The Lego Movie
+Year Released: 07 Feb 2014
+IMBD Rating: 7.8
+Country Produced: Australia, USA, Denmark
+Language: English
+Plot: An ordinary LEGO construction worker, thought to be the prophesied as "special", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.
+Actors: Will Arnett, Elizabeth Banks, Craig Berry, Alison Brie
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-thisBlade Runner 2045 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Don't Worry, We'll Think of a Title
+Year Released: 01 May 1966
+IMBD Rating: 4.8
+Country Produced: USA
+Language: English
+Plot: A man is mistaken by foreign agents for a defecting cosmonaut and must prove his identity while evading capture.
+Actors: Morey Amsterdam, Rose Marie, Richard Deacon, Joey Adams
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-thisBlade Runner 2045 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: The Lego Movie
+Year Released: 07 Feb 2014
+IMBD Rating: 7.8
+Country Produced: Australia, USA, Denmark
+Language: English
+Plot: An ordinary LEGO construction worker, thought to be the prophesied as "special", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.
+Actors: Will Arnett, Elizabeth Banks, Craig Berry, Alison Brie
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-thisBlade Runner 2045 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: The Lego Movie
+Year Released: 07 Feb 2014
+IMBD Rating: 7.8
+Country Produced: Australia, USA, Denmark
+Language: English
+Plot: An ordinary LEGO construction worker, thought to be the prophesied as "special", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.
+Actors: Will Arnett, Elizabeth Banks, Craig Berry, Alison Brie
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
