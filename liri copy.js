@@ -98,7 +98,7 @@ function retrieveOBDBInfo(movie) {
 	search = search.split(' ').join('+');
 
 	// Construct the query string
-	var queryStr = "https://www.omdbapi.com/?t=" + movie + "&apikey=trilogy";
+	var queryStr = 'https://www.omdbapi.com/?t=" + movie + "&apikey=trilogy';
 
 	// Send the request to OMDB
 	request(queryStr, function (error, response, body) {

@@ -530,3 +530,233 @@ Actors: Will Arnett, Elizabeth Banks, Craig Berry, Alison Brie
 Rotten Tomatoes Rating: undefined
 Rotten Tomatoes URL: undefined
 
+User Command: node liri.js movie-thisOutlaw 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Rambo
+Year Released: 25 Jan 2008
+IMBD Rating: 7.0
+Country Produced: Germany, USA
+Language: English, Burmese, Thai
+Plot: In Thailand, John Rambo joins a group of mercenaries to venture into war-torn Burma, and rescue a group of Christian aid workers who were kidnapped by the ruthless local infantry unit.
+Actors: Sylvester Stallone, Julie Benz, Matthew Marsden, Graham McTavish
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-thisBullitt 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Rambo
+Year Released: 25 Jan 2008
+IMBD Rating: 7.0
+Country Produced: Germany, USA
+Language: English, Burmese, Thai
+Plot: In Thailand, John Rambo joins a group of mercenaries to venture into war-torn Burma, and rescue a group of Christian aid workers who were kidnapped by the ruthless local infantry unit.
+Actors: Sylvester Stallone, Julie Benz, Matthew Marsden, Graham McTavish
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-thisLove 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Rambo
+Year Released: 25 Jan 2008
+IMBD Rating: 7.0
+Country Produced: Germany, USA
+Language: English, Burmese, Thai
+Plot: In Thailand, John Rambo joins a group of mercenaries to venture into war-torn Burma, and rescue a group of Christian aid workers who were kidnapped by the ruthless local infantry unit.
+Actors: Sylvester Stallone, Julie Benz, Matthew Marsden, Graham McTavish
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-thisOutlaw 
+
+ERROR: No movie info retrieved, please check the spelling of the movie name!User Command: node liri.js movie-thisOutlawBullitt 
+
+ERROR: No movie info retrieved, please check the spelling of the movie name!User Command: node liri.js movie-thisBullitt 
+
+ERROR: No movie info retrieved, please check the spelling of the movie name!User Command: node liri.js movie-thisBullitt 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: The Lego Movie
+Year Released: 07 Feb 2014
+IMBD Rating: 7.8
+Country Produced: Australia, USA, Denmark
+Language: English
+Plot: An ordinary LEGO construction worker, thought to be the prophesied as "special", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.
+Actors: Will Arnett, Elizabeth Banks, Craig Berry, Alison Brie
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-thisBullitt 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Don't Worry, We'll Think of a Title
+Year Released: 01 May 1966
+IMBD Rating: 4.8
+Country Produced: USA
+Language: English
+Plot: A man is mistaken by foreign agents for a defecting cosmonaut and must prove his identity while evading capture.
+Actors: Morey Amsterdam, Rose Marie, Richard Deacon, Joey Adams
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-thisBlade Runner 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: The Lego Movie
+Year Released: 07 Feb 2014
+IMBD Rating: 7.8
+Country Produced: Australia, USA, Denmark
+Language: English
+Plot: An ordinary LEGO construction worker, thought to be the prophesied as "special", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.
+Actors: Will Arnett, Elizabeth Banks, Craig Berry, Alison Brie
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js spotify-this-song Bad Moon Rising 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: Bad Moon Rising
+Artist: Creedence Clearwater Revival
+Album: Green River (40th Anniversary Edition)
+Preview Here: null
+
+User Command: /usr/local/bin/node,/Users/reedfisher/liri-node-app/liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song Summertime 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: Summertime Magic
+Artist: Childish Gambino
+Album: Summer Pack
+Preview Here: https://p.scdn.co/mp3-preview/54b992f72944542c137df6bbb1080f6f76c9df67?cid=1ebed4cffe3f4ee09ddf108846ae21f8
+
+User Command: node liri.js movie-thisJaws 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: The Lego Movie
+Year Released: 07 Feb 2014
+IMBD Rating: 7.8
+Country Produced: Australia, USA, Denmark
+Language: English
+Plot: An ordinary LEGO construction worker, thought to be the prophesied as "special", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.
+Actors: Will Arnett, Elizabeth Banks, Craig Berry, Alison Brie
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-this Jaws 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: The Lego Movie
+Year Released: 07 Feb 2014
+IMBD Rating: 7.8
+Country Produced: Australia, USA, Denmark
+Language: English
+Plot: An ordinary LEGO construction worker, thought to be the prophesied as "special", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.
+Actors: Will Arnett, Elizabeth Banks, Craig Berry, Alison Brie
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-this Jaws 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: The Lego Movie
+Year Released: 07 Feb 2014
+IMBD Rating: 7.8
+Country Produced: Australia, USA, Denmark
+Language: English
+Plot: An ordinary LEGO construction worker, thought to be the prophesied as "special", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.
+Actors: Will Arnett, Elizabeth Banks, Craig Berry, Alison Brie
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: /usr/local/bin/node,/Users/reedfisher/liri-node-app/liri
+
+LIRI Response:
+
+Usage:
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js movie-this Bullitt 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Bullitt
+Year Released: 17 Oct 1968
+IMBD Rating: 7.5
+Country Produced: USA
+Language: English
+Plot: An all guts, no glory San Francisco cop becomes determined to find the underworld kingpin that killed the witness in his protection.
+Actors: Steve McQueen, Robert Vaughn, Jacqueline Bisset, Don Gordon
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
